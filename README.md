@@ -1,5 +1,5 @@
-# Titulo: Calculadora 
-## Subtitulo:
+# Titulo: Manual de la Calculadora 
+## Subtitulo: Fundamentos de Python  
 ### SubSubTitulo
   Texto
   Lista
