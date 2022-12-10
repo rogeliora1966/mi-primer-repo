@@ -1,5 +1,5 @@
 <center> <h1>heading 1</h1> </center>
-# Manual de la Calculadora del Indice de masa Corporal (IMC)
+<center> <h1># Manual de la Calculadora del Indice de masa Corporal (IMC)1</h1> </center>
 ## Fundamentos de Python  
 ### SubSubTitulo
   Texto
