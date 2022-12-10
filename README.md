@@ -1,4 +1,4 @@
-# Manual de la Calculadora del Indice de masa Corporal (IMC)
+# Manual de la Calculadora del Indice de masa Corporal                           (IMC)
 ## Fundamentos de Python  
 ### SubSubTitulo
   Texto
