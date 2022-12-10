@@ -1,13 +1,13 @@
 print ("Este es mi Programa Principal")
 #Le pedimos el nombre y lo guardamos en un input
 # Definicion de Variables
-try:
+#try:
 nombre = input ("Su nombre por favor: ")
 apellido = input ("Ingrese su Pallido: ")
 if nombre =="" :
     print ("No puede ir el dato en blanco, debe de ingresar el nombre y el apellido")
     exit ()
-except:
+#except:
  #   print ("solo Caracteres Alfanumericos")
 
 print (nombre)
@@ -25,3 +25,4 @@ except:
 #Calculo del Indice corporal
 imc = peso / altura **2
 print (nombre, apellido,",","tu masa corporal es de",  imc)
+#Nota
